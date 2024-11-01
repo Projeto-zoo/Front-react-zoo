@@ -1,13 +1,18 @@
 import React from 'react';
 import Button from '@mui/material/Button';
+import { Route, Routes } from 'react-router-dom';
+import Home from './pages/home';
+import Animais from './pages/cadastro/animais'
+import Habitats from './pages/cadastro/habitats'
 
-function App() {
+const App = () => {
   return (
-    <div>
-      <Button variant="contained" color="primary">
-        Projeto Zoo
-      </Button>
-    </div>
+    <Routes>
+      <Route path='/cadastro' element={<Home />}>
+        <Route path='animais' element={< Animais />}/>
+        <Route path='habitats' element={<Habitats />}/>
+      </Route>
+    </Routes>
   );
 }
 
