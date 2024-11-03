@@ -1,15 +1,14 @@
 import React from 'react';
 import Button from '@mui/material/Button';
-import { Route, Routes } from 'react-router-dom';
-import Home from './pages/home';
-import Animais from './pages/cadastro/animais'
-import Habitats from './pages/cadastro/habitats'
-import { Typography } from '@mui/material';
 
-const App = () => {
+function App() {
   return (
-    <Home />
-);
+    <div>
+      <Button variant="contained" color="primary">
+        Projeto Zoo
+      </Button>
+    </div>
+  );
 }
 
 export default App;
