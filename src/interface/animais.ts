@@ -1,7 +1,8 @@
 export interface Animal {
     nome: string;
-    idade: string;
+    data: string;
     altura: string;
     peso: string;
     especie: string;
+    habitat: string;
 }

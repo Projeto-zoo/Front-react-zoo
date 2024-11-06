@@ -1,4 +1,3 @@
-import { Typography, Button } from '@mui/material';
 import React from 'react';
 import Header from '../../components/header/header';
 import styles from './home.module.scss';
@@ -14,16 +13,16 @@ const App = () => {
                     <img src="/macaco_home.png" alt="Descrição da imagem" className={styles.imgBackground} />
                 </div>
                 <div className={styles.divHomeDireita}>
-                    <Link to="/">
+                    <Link to="cadastro/animais">
                         <Botao>Cadastrar Animal</Botao>
                     </Link>
-                    <Link to="/">
+                    <Link to="cadastro/habitats">
                         <Botao>Cadastrar Habitat</Botao>
                     </Link>
-                    <Link to="/">
+                    <Link to="visualizar/animais">
                         <Botao>Visualizar Animais</Botao>
                     </Link>
-                    <Link to="/">
+                    <Link to="visualizar/habitats">
                         <Botao>Visualizar Habitats</Botao>
                     </Link>
                 </div>

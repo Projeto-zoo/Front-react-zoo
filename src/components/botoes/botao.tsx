@@ -1,17 +1,20 @@
-import React, { Children, ReactNode } from "react";
+import React, { ReactNode } from "react";
 import styles from './botoes.module.scss';
 import { Button } from '@mui/material';
 
 interface BotoesProps {
     children: ReactNode;
+    type?: "button" | "submit" | "reset"; // Adiciona a prop `type` opcional com os tipos permitidos
 }
 
-const botoes: React.FC<BotoesProps> = ({children}) => {
+const Botoes: React.FC<BotoesProps> = ({ children, type = "button" }) => {
     return (
         <div>
-            <Button variant="contained" className={styles.botaoCadastrarAnimal}> {children} </Button> 
+            <Button variant="contained" className={styles.botaoCadastrarAnimal} type={type}>
+                {children}
+            </Button>
         </div>
-    )
+    );
 }
 
-export default botoes;
+export default Botoes;
