@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: 'arara_login.png';
+  font-family: 'Montserrat';
+  position: relative;
+  overflow: hidden; // Evita que o conteúdo transborde
+
+  .card {
+    display: flex;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.9); // Card com fundo semi-transparente
+
+    .leftPanel {
+      flex: 1;
+      padding: 20px;
+
+      .title {
+        margin-bottom: 20px;
+        color: #424242; // Cor do título
+      }
+
+      .inputField {
+        margin-bottom: 20px; // Espaçamento entre os campos
+      }
+
+      .checkboxContainer {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px; // Espaçamento abaixo do checkbox
+      }
+
+      .signupButton {
+        width: 100%;
+        height: 45px; // Altura do botão
+        border-radius: 15px; // Bordas arredondadas
+        background-color: #3152b7; // Cor de fundo do botão
+        color: #fff; // Cor do texto
+        font-weight: bold; // Peso da fonte para destacar
+        text-transform: uppercase; // Transformação do texto
+        &:hover {
+          background-color: #253b8d; // Cor do botão ao passar o mouse (mais escuro)
+        }
+      }
+    }
+
+    .rightPanel {
+      flex: 1;
+      padding: 20px;
+      height: 650px; // Altura do painel direito
+      position: relative;
+      backdrop-filter: blur(20px); // Efeito de desfoque
+      border-radius: 0px 20px 20px 0px; // Bordas arredondadas
+      background-color: rgba(4, 48, 111, 0.35); // Cor do painel direito com opacidade
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      h4 {
+        color: #ffffff; // Cor do título
+      }
+
+      .signupButton {
+        width: 70%; // Largura do botão
+        height: 40px; // Altura do botão
+        border-radius: 15px; // Bordas arredondadas
+        background-color: #3152b7; // Cor de fundo do botão
+        color: #fff; // Cor do texto
+        font-weight: bold; // Peso da fonte para destacar
+        text-transform: uppercase; // Transformação do texto
+        margin-top: 20px;
+        &:hover {
+          background-color: #253b8d; // Cor do botão ao passar o mouse
+        }
+      }
+    }
+  }
+}
