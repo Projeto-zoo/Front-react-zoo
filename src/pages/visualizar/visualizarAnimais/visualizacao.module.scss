@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 100%; 
+}
+
+.container_grid {
+    background-color: #D1DAF4;
+    border-width: 0px 1px 1px 1px;
+    border-style: solid;
+    border-color: #9599A4;
+    margin-top: 20px;
+    width: 90%; 
+    height: 600px; 
+}

@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "nome_animal": "Joaquim",
+      "data_nascimento": "16/06/2010",
+      "altura": "3.00",
+      "peso": "1000.0",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Maria",
+      "data_nascimento": "10/12/2005",
+      "altura": "4.00",
+      "peso": "1500.0",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Jeremias",
+      "data_nascimento": "01/03/2005",
+      "altura": "4.50",
+      "peso": "1700.0",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Gandalf",
+      "data_nascimento": "01/01/2000",
+      "altura": "0.40",
+      "peso": "00.8",
+      "especime": "Calopsita",
+      "habitat": "Calopsitas"
+    },
+    {
+      "nome_animal": "Charlie",
+      "data_nascimento": "26/05/2004",
+      "altura": "1.51",
+      "peso": "1074.7",
+      "especime": "Pinguim",
+      "habitat": "Pinguins"
+    },
+    {
+      "nome_animal": "Sophie",
+      "data_nascimento": "23/02/1992",
+      "altura": "4.89",
+      "peso": "751.0",
+      "especime": "Leão",
+      "habitat": "Leões"
+    },
+    {
+      "nome_animal": "Apollo",
+      "data_nascimento": "11/08/1995",
+      "altura": "1.10",
+      "peso": "1215.5",
+      "especime": "Girafa",
+      "habitat": "Girafas"
+    },
+    {
+      "nome_animal": "Tobias",
+      "data_nascimento": "01/02/2014",
+      "altura": "4.40",
+      "peso": "1837.6",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Oscar",
+      "data_nascimento": "13/07/2020",
+      "altura": "3.69",
+      "peso": "1216.3",
+      "especime": "Girafa",
+      "habitat": "Girafas"
+    },
+    {
+      "nome_animal": "Rex",
+      "data_nascimento": "10/12/1996",
+      "altura": "4.85",
+      "peso": "1905.0",
+      "especime": "Calopsita",
+      "habitat": "Calopsitas"
+    },
+    {
+      "nome_animal": "Apollo",
+      "data_nascimento": "31/07/2000",
+      "altura": "0.45",
+      "peso": "743.0",
+      "especime": "Tigre",
+      "habitat": "Tigres"
+    },
+    {
+      "nome_animal": "Buddy",
+      "data_nascimento": "12/07/2017",
+      "altura": "3.34",
+      "peso": "1452.0",
+      "especime": "Leão",
+      "habitat": "Leões"
+    },
+    {
+      "nome_animal": "Lily",
+      "data_nascimento": "19/09/1995",
+      "altura": "4.25",
+      "peso": "1545.7",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Simba",
+      "data_nascimento": "15/08/2016",
+      "altura": "0.95",
+      "peso": "123.5",
+      "especime": "Pinguim",
+      "habitat": "Pinguins"
+    },
+    {
+      "nome_animal": "Daisy",
+      "data_nascimento": "25/06/1997",
+      "altura": "1.36",
+      "peso": "905.7",
+      "especime": "Girafa",
+      "habitat": "Girafas"
+    },
+    {
+      "nome_animal": "Rocky",
+      "data_nascimento": "12/11/1999",
+      "altura": "2.56",
+      "peso": "499.1",
+      "especime": "Girafa",
+      "habitat": "Girafas"
+    },
+    {
+      "nome_animal": "Bella",
+      "data_nascimento": "18/01/1997",
+      "altura": "1.01",
+      "peso": "128.5",
+      "especime": "Pinguim",
+      "habitat": "Pinguins"
+    },
+    {
+      "nome_animal": "Zeus",
+      "data_nascimento": "22/08/2004",
+      "altura": "1.79",
+      "peso": "769.7",
+      "especime": "Pinguim",
+      "habitat": "Pinguins"
+    },
+    {
+      "nome_animal": "Milo",
+      "data_nascimento": "14/08/2020",
+      "altura": "2.18",
+      "peso": "544.5",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Lucy",
+      "data_nascimento": "09/11/2013",
+      "altura": "1.75",
+      "peso": "1450.5",
+      "especime": "Tigre",
+      "habitat": "Tigres"
+    },
+    {
+      "nome_animal": "Charlie",
+      "data_nascimento": "12/06/1995",
+      "altura": "0.80",
+      "peso": "90.3",
+      "especime": "Papagaio",
+      "habitat": "Papagaios"
+    },
+    {
+      "nome_animal": "Luna",
+      "data_nascimento": "14/02/2007",
+      "altura": "1.22",
+      "peso": "107.8",
+      "especime": "Papagaio",
+      "habitat": "Papagaios"
+    },
+    {
+      "nome_animal": "Thor",
+      "data_nascimento": "08/01/2008",
+      "altura": "1.87",
+      "peso": "1300.4",
+      "especime": "Leão",
+      "habitat": "Leões"
+    },
+    {
+      "nome_animal": "Tina",
+      "data_nascimento": "01/04/2002",
+      "altura": "0.69",
+      "peso": "1041.3",
+      "especime": "Girafa",
+      "habitat": "Girafas"
+    },
+    {
+      "nome_animal": "Chloe",
+      "data_nascimento": "04/08/2012",
+      "altura": "0.32",
+      "peso": "8.9",
+      "especime": "Calopsita",
+      "habitat": "Calopsitas"
+    },
+    {
+      "nome_animal": "Oscar",
+      "data_nascimento": "19/04/2018",
+      "altura": "2.25",
+      "peso": "800.7",
+      "especime": "Leão",
+      "habitat": "Leões"
+    },
+    {
+      "nome_animal": "Coco",
+      "data_nascimento": "28/02/2009",
+      "altura": "0.35",
+      "peso": "12.4",
+      "especime": "Calopsita",
+      "habitat": "Calopsitas"
+    },
+    {
+      "nome_animal": "Fiona",
+      "data_nascimento": "11/11/2014",
+      "altura": "1.50",
+      "peso": "90.0",
+      "especime": "Papagaio",
+      "habitat": "Papagaios"
+    },
+    {
+      "nome_animal": "Olivia",
+      "data_nascimento": "15/03/2009",
+      "altura": "0.55",
+      "peso": "1090.3",
+      "especime": "Leão",
+      "habitat": "Leões"
+    },
+    {
+      "nome_animal": "Jack",
+      "data_nascimento": "27/04/2010",
+      "altura": "3.14",
+      "peso": "1800.0",
+      "especime": "Elefante",
+      "habitat": "Elefantes"
+    },
+    {
+      "nome_animal": "Leo",
+      "data_nascimento": "02/02/2000",
+      "altura": "2.50",
+      "peso": "700.5",
+      "especime": "Pinguim",
+      "habitat": "Pinguins"
+    }
+  ]
+}

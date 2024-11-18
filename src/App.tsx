@@ -1,14 +1,10 @@
 import React from 'react';
-import Button from '@mui/material/Button';
+import { Outlet } from 'react-router-dom';
 
-function App() {
+const App = () => {
   return (
-    <div>
-      <Button variant="contained" color="primary">
-        Projeto Zoo
-      </Button>
-    </div>
-  );
+    <Outlet />
+);
 }
 
 export default App;

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "nome_habitat": "Elefantes",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "7",
+      "sensor": "True"
+    },
+    {
+      "nome_habitat": "Calopsitas",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "4",
+      "sensor": "True"
+    },
+    {
+      "nome_habitat": "Pinguins",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "5",
+      "sensor": "True"
+    },
+    {
+      "nome_habitat": "Leões",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "5",
+      "sensor": "True"
+    },
+    {
+      "nome_habitat": "Tigres",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "2",
+      "sensor": "True"
+    },
+    {
+      "nome_habitat": "Girafas",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "5",
+      "sensor": "True"
+    },
+    {
+      "nome_habitat": "Papagaios",
+      "temperatura": "32",
+      "temp_min": "30",
+      "temp_max": "35",
+      "qntd_animais": "3",
+      "sensor": "True"
+    }
+  ]
+}
